@@ -18,7 +18,7 @@
 
 第一步: 请fork这个repo，建立一个目录，目录名字是自己github的id。例如: /my-github-id/
 
-第二步: 把/template/README.md复制一份到你自己的目录，根据自己内容修改，填写必选项，其余请放开自由发挥
+第二步: 把/template/马化腾.md复制一份到你自己的目录，根据自己内容修改，填写必选项，其余请放开自由发挥。https://github.com/itlevelsfyi/XiangQin/blob/master/template/%E9%A9%AC%E5%8C%96%E8%85%BE.md
 
 第三步: 选择一个群加入，将该群的二维码复制到你的/my-github-id/README.md下。
 
