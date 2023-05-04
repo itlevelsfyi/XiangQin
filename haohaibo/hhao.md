@@ -18,7 +18,7 @@ https://github.com/haohaibo
 
 ## 工作经验 (optional)
 
-Deep Learning Performance Architect
+Deep Learning Performance Architect at NVIDIA
 
 ## 爱好 (optional)
 
