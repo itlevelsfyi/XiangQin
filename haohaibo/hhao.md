@@ -1,7 +1,5 @@
-# 马化腾
 
 ## 照片 (optional)
-![变强](http://5b0988e595225.cdn.sohucs.com/images/20191002/3945dbc9e08049579f86702297302d70.jpeg "不充钱怎么变强")
 
 ## 姓名 / 昵称 (required)
 hhao
